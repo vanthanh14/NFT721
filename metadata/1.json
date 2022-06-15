@@ -1,0 +1,11 @@
+{
+    "name": "Picture1",
+    "description": "This is picture 01",
+    "image": "https://ipfs.io/ipfs/QmWQ2peTxLJ5CTajjkM1roRVkPSBbTffjXMmrKHY9E9WAh",
+    "attributes": [
+        {
+            "trait_type": "Base",
+            "value": "Starfish"
+        }
+    ]
+}
